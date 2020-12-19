@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","root","","lms_db");
+$con=mysqli_connect("remotemysql.com","NtUJCmgFlp","b0WwLZbCbU","NtUJCmgFlp");
 // Check connection
 if (mysqli_connect_errno())
   {

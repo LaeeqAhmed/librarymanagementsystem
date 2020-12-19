@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'localhost';
-	$dbUsername = 'root';
-	$dbPassword = '';
-	$dbDatabase = 'lms_db';
+	$dbServer = ' remotemysql.com';
+	$dbUsername = 'NtUJCmgFlp';
+	$dbPassword = 'b0WwLZbCbU';
+	$dbDatabase = 'NtUJCmgFlp';
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
